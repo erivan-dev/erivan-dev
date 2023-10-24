@@ -1,16 +1,12 @@
-## Hey, I'm Erivan Oliveira!  👋
+# Hey, I'm Erivan Oliveira! 👋
+
+- 💻 Frontend developer
+- 🌱 I am currently learning everything about HTML, CSS, Javascript and React.
+- 📍 São Paulo - Brazil
 
 
-I have a degree in Information Systems, I've been studying front-end since 2020. 💻
+ <img align="right" src="https://user-images.githubusercontent.com/93286172/139174232-c55c8e5b-0dc0-4458-8621-b464db83ea5f.png" width="250">   
 
+[![card](https://github-readme-stats.vercel.app/api?username=erivan-senai&theme=dark)](https://github.com/erivan-senai/)
 
-### 💻  " Front-end Developer passionate about lines of code and coffee. "  ☕️
-
--   📍  São Paulo - BR
--   💻  Front-End developer 
--   🌱  I am currently learning everything about HTML, CSS, Javascript and Angular.
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=erivan100&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erivan100&layout=compact)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=erivan-senai&hide=html&layout=compact&theme=dark)](https://github.com/erivan-senai/)
