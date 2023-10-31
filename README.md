@@ -1,6 +1,6 @@
 # Hey, I'm Erivan Oliveira! 👋
 
-- 💻 Frontend developer
+- 💻 Software developer
 - 🌱 I am currently learning everything about HTML, CSS, Javascript and React.
 - 📍 São Paulo - Brazil
 
