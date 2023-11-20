@@ -1,6 +1,6 @@
 # Hey, I'm Erivan Oliveira! 👋👨🏻‍💻.
 
-- 💻 Software developer.
+- 💻 Software developer
 - 🌱 I am currently learning everything about HTML, CSS, Javascript, React, NodeJs and Java.
 - 📍 São Paulo - Brazil.
 
