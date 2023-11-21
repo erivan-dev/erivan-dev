@@ -12,6 +12,7 @@
 
 ## ⚡ Technologies
 
+
 These are some of the technologies and tools that I work with:
 
 Backend: 
